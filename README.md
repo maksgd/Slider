@@ -1,5 +1,5 @@
 # Slider
-[Результат](https://maksgd.github.io/3.Slider/)
+[Результат](https://maksgd.github.io/Slider/)
 *** 
 #### Реализован на чистом JS без дополнительных библиотек.
 
